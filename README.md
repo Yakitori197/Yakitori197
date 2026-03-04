@@ -73,7 +73,7 @@
 
 如果您有專案需求或合作洽詢，歡迎透過以下方式聯繫：
 
-[![Website](https://img.shields.io/badge/🌐_YoLab_官網-點此前往-blue?style=for-the-badge)](https://yakitori197.github.io/YoLab/)
+[![Website](https://img.shields.io/badge/🌐_YoLab_官網-blue?style=for-the-badge)](https://yakitori197.github.io/YoLab/)
 [![Email](https://img.shields.io/badge/📧_Email-聯絡我-red?style=for-the-badge)](mailto:sweiyo1997@gmail.com)
 
 ---
