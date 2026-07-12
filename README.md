@@ -37,6 +37,7 @@
 ###  工業 AI 視覺
 | 專案 | 說明 |
 |------|------|
+| [**CCD_System**](https://github.com/Yakitori197/CCD_System) | 產線 AOI 自動光學檢測系統 v1.2：YOLOv8 推理、OK/NG 判定策略分層、序列埠硬體剔除整合、可擴充工業相機介面 |
 | [**Yolov8_TrainSystem**](https://github.com/Yakitori197/Yolov8_TrainSystem) | 完整的 YOLO 訓練系統，支援多攝影機、標註、訓練一條龍 |
 
 ###  聊天機器人
