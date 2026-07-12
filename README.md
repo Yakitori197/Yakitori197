@@ -35,7 +35,6 @@
 ###  工業 AI 視覺
 | 專案 | 說明 |
 |------|------|
-| [**CCD_System**](https://github.com/Yakitori197/CCD_System) | 生產就緒的 AOI 自動光學檢測系統，支援硬體剔除整合 |
 | [**Yolov8_TrainSystem**](https://github.com/Yakitori197/Yolov8_TrainSystem) | 完整的 YOLO 訓練系統，支援多攝影機、標註、訓練一條龍 |
 
 ###  聊天機器人
@@ -43,11 +42,6 @@
 |------|------|
 | [**Stock_LineBot_Public**](https://github.com/Yakitori197/Stock_LineBot_Public) | 台股美股 LINE 機器人（開源版） |
 | [**Discord_StockBot**](https://github.com/Yakitori197/Discord_StockBot) | Discord 股票查詢機器人 |
-
-###  交易系統
-| 專案 | 說明 |
-|------|------|
-| [**Crypto_Yak_System**](https://github.com/Yakitori197/Crypto_Yak_System_V1.0) | 加密貨幣模型訓練與自動排程系統 |
 
 ###  實用工具
 | 專案 | 說明 |
