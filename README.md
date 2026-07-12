@@ -10,6 +10,8 @@
 ## 🛠 技術棧
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LINE](https://img.shields.io/badge/LINE_Bot-00C300?style=for-the-badge&logo=line&logoColor=white)
@@ -48,18 +50,6 @@
 |------|------|
 | [**BatchExtractor**](https://github.com/Yakitori197/-BatchExtractor-) | 批次壓縮檔解壓工具 |
 | [**GitHub_UploadSystem**](https://github.com/Yakitori197/GitHub_UploadSystem) | Python 模組化專案樣板 |
-
----
-
-##  GitHub 統計
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yakitori197&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakitori197&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
